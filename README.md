@@ -28,6 +28,8 @@ haps-6g-multiperiod-cell-switching/
 └── venv/
 ```
 
+## Outputs
+![Output](results/ping_pong_comparison.png)
 ## Main components
 
 ### `main.py`
